@@ -1,5 +1,5 @@
 let n = 0;
-// used a while loop, it can be ran until we meet out highest number, which is 100
+// used a while loop, it can be ran until we meet out highest number which is 100
 while (n < 100) {
 // increment the value of n by one
     n++;
